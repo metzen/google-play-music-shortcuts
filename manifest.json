@@ -17,7 +17,7 @@
       "description": "Play or pause music",
       "suggested_key": "Alt+Shift+P"
     },
-    "nextSong": {
+    "goToNextSong???": {
       "description": "Go to the next song",
       "suggested_key": "Alt+Shift+J"
     },
